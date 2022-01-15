@@ -93,7 +93,7 @@
     "ip": "1.1.4",
     "leaflet": "^1.0.3",
     "lodash-es": "^4.17.10",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "mime-types": "^2.1.16",
     "minimist": "1.2.0",
     "moment": "^2.18.1",
